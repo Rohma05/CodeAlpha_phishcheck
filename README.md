@@ -50,5 +50,7 @@ HTML5, CSS3, vanilla JavaScript. Fonts: Bricolage Grotesque and IBM Plex Sans vi
 ## Disclaimer
 For education only. All email addresses, links and phone numbers in the examples are invented. The case studies summarise publicly reported incidents.
 
+![PhishCheck home page](screenshot.png)
+
 ## Author
 Made by Rohma Kashaf. Feel free to open an issue with suggestions.
